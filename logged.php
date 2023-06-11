@@ -1,13 +1,13 @@
 <?php
-$user = 'm29582_ktpjatk';
-$password = 'Siema123';
+$user = '####';
+$password = '####';
 
 // Database name is test
-$database = 'm29582_test';
+$database = '####';
 
 // Server is localhost with
 // port number 3306
-$servername='mysql.ct8.pl';
+$servername='####';
 $mysqli = new mysqli($servername, $user,
     $password, $database);
 
