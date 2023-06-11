@@ -12,10 +12,10 @@ include 'MakijazCell.php';
 
 
 $booking = new Makijaz(
-    'm29582_test',
-    'mysql.ct8.pl',
-    'm29582_ktpjatk',
-    'Siema123'
+    '####',
+    '####',
+    '####',
+    '####'
 );
 
 $bookableCell = new MakijazCell($booking);
